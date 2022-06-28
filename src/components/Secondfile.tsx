@@ -3,11 +3,6 @@ import React, { Fragment, useState } from "react";
 import "../App.css";
 
 
-
-
-
-
-
 const Secondfile = () => {
 
     let animales2 = ["gato", "perro", "raton", "serpiente"];
@@ -15,7 +10,6 @@ const Secondfile = () => {
     const [first, setfirst] = useState(0);
     const [second, setsecond] = useState('');
 
-//let animales = [{a: "gato"},{a: "perro"},{a: "raton"},{a: "serpiente"}];
 
 const handlePush = () => {};
 const handleChange = (event: any) => {

@@ -20,7 +20,7 @@ function App() {
       <div className="App-header">
         <h1>Hola my App</h1>
       <Firstfile />
-      <br /> <hr className='line'/>
+      <br /> <hr/>
       <Secondfile />
       </div>
     </Fragment>
